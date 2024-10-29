@@ -1,0 +1,135 @@
+/* Urdu Fonts */
+@font-face {
+  font-family: 'Jameel Noori Nastaleeq';
+  src: url('./JameelNooriNastaleeq.woff2') format('woff2'),
+       url('./JameelNooriNastaleeq.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Mehr Nastaleeq';
+  src: url('./MehrNastaleeq.woff2') format('woff2'),
+       url('./MehrNastaleeq.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nafees Nastaleeq';
+  src: url('./NafeesNastaleeq.woff2') format('woff2'),
+       url('./NafeesNastaleeq.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Faiz Lahori Nastaleeq';
+  src: url('./FaizLahoriNastaleeq.woff2') format('woff2'),
+       url('./FaizLahoriNastaleeq.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Noori Nastaleeq';
+  src: url('./NooriNastaleeq.woff2') format('woff2'),
+       url('./NooriNastaleeq.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Alvi Nastaleeq';
+  src: url('./AlviNastaleeq.woff2') format('woff2'),
+       url('./AlviNastaleeq.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Aslam Lashkari Nastaleeq';
+  src: url('./AslamLashkariNastaleeq.woff2') format('woff2'),
+       url('./AslamLashkariNastaleeq.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Pak Nastaleeq';
+  src: url('./PakNastaleeq.woff2') format('woff2'),
+       url('./PakNastaleeq.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Khadim Quranic';
+  src: url('./KhadimQuranic.woff2') format('woff2'),
+       url('./KhadimQuranic.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Amna';
+  src: url('./Amna.woff2') format('woff2'),
+       url('./Amna.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Qalam Quran Majeed';
+  src: url('./QalamQuranMajeed.woff2') format('woff2'),
+       url('./QalamQuranMajeed.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Fajer Noori Nastaleeq';
+  src: url('./FajerNooriNastaleeq.woff2') format('woff2'),
+       url('./FajerNooriNastaleeq.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Hussaini Nastaleeq';
+  src: url('./HussainiNastaleeq.woff2') format('woff2'),
+       url('./HussainiNastaleeq.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Urdu Typesetting';
+  src: url('./UrduTypesetting.woff2') format('woff2'),
+       url('./UrduTypesetting.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Awami Nastaleeq';
+  src: url('./AwamiNastaleeq.woff2') format('woff2'),
+       url('./AwamiNastaleeq.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
